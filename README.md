@@ -80,7 +80,7 @@ FILES :___________________________________________
 
 Online Power BI Report.md : The Power BI Service file to view Reports on Online.
 
-Global_super_store_sales_Report.pbix : The Power BI report file.
+D-mart_super_store_sales_Report.pbix : The Power BI report file.
 
 Global_super_store_data.xlsx : The dataset used for the report.
 
