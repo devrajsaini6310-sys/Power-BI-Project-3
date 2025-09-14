@@ -1,7 +1,6 @@
 PROJECT TITLE :___________________
 
-SUPER_STORE SALES ANALYTICS DASHBOARD
-
+SUPER_STORE SALES DASHBOARD
 PROJECT OBJECTIVE :_________________________
 
 Interactive sales dashboard built in Power BI to analyze and visualize sales performance, profitability, and key metrics for a superstore.
@@ -36,13 +35,9 @@ DATA MODELING AND RELATIONSHIPS :_____________________________
 
 Relationships: List the key relationships have established.
 
-Orders table: The primary fact table containing transactional data.
+SALES table: The primary fact table containing transactional data.
 
-People table: Dimension table linked to Orders on Region.
-
-Returns table: Fact table linked to Pepole on Region.
-
-Returns table : Fact table linked to Orders on Region.
+ORDER table: Dimension table linked to FACT table SALES on ORDER ID
 
 DATA VISUALIZATION :____________________________
 
