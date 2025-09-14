@@ -1,6 +1,7 @@
 PROJECT TITLE :___________________
 
 SUPER_STORE SALES DASHBOARD
+
 PROJECT OBJECTIVE :_________________________
 
 Interactive sales dashboard built in Power BI to analyze and visualize sales performance, profitability, and key metrics for a superstore.
